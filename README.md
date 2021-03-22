@@ -1,7 +1,7 @@
 # Todo-React
 
- 👋 Hi, I’m @HimanshuBelhekar
- 🌱 I’m currently learning ReactJS
+👋 Hi, I’m Himanshu.
+🌱 I’m currently learning ReactJS
 
 This is a simple Todo webapp using react.
 
